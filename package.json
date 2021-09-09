@@ -16,6 +16,7 @@
     "jest-environment-node": "^27.1.1",
     "near-api-js": "^0.42.0",
     "near-sdk-as": "^3.2.3",
-    "npm": "^7.22.0"
+    "npm": "^7.22.0",
+    "near-cli": "^2.1.1"
   }
 }
