@@ -15,8 +15,10 @@
     "jest": "^27.1.1",
     "jest-environment-node": "^27.1.1",
     "near-api-js": "^0.42.0",
+    "near-cli": "^2.1.1",
     "near-sdk-as": "^3.2.3",
     "npm": "^7.22.0",
-    "near-cli": "^2.1.1"
+    "parcel-bundler": "^1.12.5",
+    "regenerator-runtime": "^0.13.9"
   }
 }

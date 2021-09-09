@@ -3,3 +3,5 @@ build
 out
 neardev/dev-account
 neardev/dev-account.env
+dist
+.cache
