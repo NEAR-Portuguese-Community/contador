@@ -1,0 +1,11 @@
+# Exemplo tsconfig.json
+
+```tsx
+{
+    "extends": "../node_modules/assemblyscript/std/assembly.json",
+    "include": [
+      "./**/*.ts",
+      "../node_modules/**/*/as_types.d.ts"
+    ]
+}
+```

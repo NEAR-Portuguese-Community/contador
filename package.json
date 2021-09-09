@@ -5,10 +5,12 @@
   "main": "as-pect.config.js",
   "scripts": {
     "build": "npx asb",
-    "test": "yarn asp"
+    "deploy": "yarn build && near dev-deploy ./out/main.wasm",
+    "test": "yarn asp",
+    "dev": "parcel html/index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "Igor Frohner github.com/IgorFroehner",
   "license": "ISC",
   "dependencies": {
     "install": "^0.13.0",

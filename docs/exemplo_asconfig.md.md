@@ -1,0 +1,11 @@
+# Exemplo de asconfig.json
+
+```jsx
+{
+  "extends": "near-sdk-as/asconfig.json",
+  "entry": "assembly/main.ts",
+  "options": {
+    "binaryFile": "out/main.wasm"
+  }
+}
+```
