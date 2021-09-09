@@ -1,0 +1,5 @@
+node_modules
+build
+out
+neardev/dev-account
+neardev/dev-account.env
