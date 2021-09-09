@@ -5,7 +5,7 @@
   "main": "as-pect.config.js",
   "scripts": {
     "build": "npx asb",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "yarn asp"
   },
   "keywords": [],
   "author": "",
