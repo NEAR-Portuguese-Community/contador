@@ -39,7 +39,7 @@
 
         Front-end, vários dos exemplos foram feitos usando react, é bom ser em algo baseado em js por ter a api que comunica direto com a near pra js, a near-api-js.
 
-    3. **asconfig.js** - configuração do assembly
+    3. **asconfig.json** - configuração do assembly
 
         Pra configurar a compilação do AssemblyScript para um arquivo .wasm que pode ser dado deploy na blockchain
 
