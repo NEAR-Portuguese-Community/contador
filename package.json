@@ -7,7 +7,7 @@
     "build": "npx asb",
     "deploy": "yarn build && near dev-deploy ./out/main.wasm",
     "test": "yarn asp",
-    "dev": "parcel html/index.html"
+    "dev": "parcel src/index.html"
   },
   "keywords": [],
   "author": "Igor Frohner github.com/IgorFroehner",
